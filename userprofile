@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-07T03:44:30.209Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="lHDN7iwaBC7NOPxW2boP" version="13.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-16T02:36:30.212Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="L1h9uOnT3N-o8pOlPHv9" version="13.6.0" type="github">
   <diagram id="cGTTkEq79UP22Ga06TP_" name="Page-1">
-    <mxGraphModel dx="2963" dy="1223" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="3" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5363" dy="1218" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="3" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -669,6 +669,57 @@
         </mxCell>
         <mxCell id="Q7OfogHdUV6cdjYkyqSq-18" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;流程监控&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="3551.52" y="746.97" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="r3E3-pkwPGgNo6JWCnm--1" value="&lt;font style=&quot;font-size: 23px&quot;&gt;画像平台&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-2370" y="1627.5" width="500" height="112.5" as="geometry" />
+        </mxCell>
+        <mxCell id="r3E3-pkwPGgNo6JWCnm--2" value="算法模型团队" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;align=center;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-2840" y="1625" width="170" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="r3E3-pkwPGgNo6JWCnm--3" value="" style="shape=flexArrow;endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="r3E3-pkwPGgNo6JWCnm--2" target="r3E3-pkwPGgNo6JWCnm--1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2590" y="1762.5" as="sourcePoint" />
+            <mxPoint x="-2540" y="1712.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r3E3-pkwPGgNo6JWCnm--5" value="用户向量（btq）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-2539.9966734342706" y="1652.4961894602077" as="geometry">
+            <mxPoint x="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r3E3-pkwPGgNo6JWCnm--6" value="推荐中台" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;align=center;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-2161.87" y="2040" width="170" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="r3E3-pkwPGgNo6JWCnm--7" value="" style="shape=flexArrow;endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="r3E3-pkwPGgNo6JWCnm--6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2077" y="1742" as="sourcePoint" />
+            <mxPoint x="-2100" y="1780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r3E3-pkwPGgNo6JWCnm--8" value="用户向量转换（btq）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1939.9966734342706" y="1919.9961894602077" as="geometry">
+            <mxPoint x="-18" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r3E3-pkwPGgNo6JWCnm--10" value="&lt;font style=&quot;font-size: 23px&quot;&gt;物理机（ANN推荐引擎）&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-2340" y="2310" width="348.13" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="r3E3-pkwPGgNo6JWCnm--11" value="" style="shape=flexArrow;endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="r3E3-pkwPGgNo6JWCnm--6" target="r3E3-pkwPGgNo6JWCnm--10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2270" y="2270" as="sourcePoint" />
+            <mxPoint x="-2077" y="2300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r3E3-pkwPGgNo6JWCnm--12" value="" style="shape=flexArrow;endArrow=classic;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.231;exitY=1.003;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="r3E3-pkwPGgNo6JWCnm--1" target="r3E3-pkwPGgNo6JWCnm--10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2480" y="2040" as="sourcePoint" />
+            <mxPoint x="-2430" y="1990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r3E3-pkwPGgNo6JWCnm--13" value="获取相似用户topK" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-2339.9966734342706" y="1999.9961894602077" as="geometry">
+            <mxPoint x="-18" y="3" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
