@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-12T15:43:56.059Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="Ot8U8zcH9I2r88oU1zWH" version="17.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-13T03:04:21.871Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="pKIjaAgqud0gvzr_YBmy" version="17.4.3" type="github">
   <diagram id="-Vc1SqAhIWkPA8O0TntI" name="Page-1">
     <mxGraphModel dx="2163" dy="1207" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="8000" pageHeight="8000" math="0" shadow="0">
       <root>
@@ -740,7 +740,7 @@
         <mxCell id="l22EB8_14llwBZu5jzjP-403" value="统计监控" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeWidth=2;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="4644" y="768" width="160" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="l22EB8_14llwBZu5jzjP-431" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=left;" vertex="1" parent="1">
+        <mxCell id="l22EB8_14llwBZu5jzjP-431" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="5309" y="634.5" width="163" height="253.5" as="geometry" />
         </mxCell>
         <mxCell id="l22EB8_14llwBZu5jzjP-432" value="自研存储引擎" style="label;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png;fontSize=20;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
@@ -759,12 +759,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="l22EB8_14llwBZu5jzjP-445" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=19.33333333333337;fontSize=20;strokeWidth=2;align=center;" vertex="1" parent="1">
-          <mxGeometry x="4730" y="972" width="217.5" height="118" as="geometry" />
+          <mxGeometry x="4740.25" y="974" width="217.5" height="118" as="geometry" />
         </mxCell>
-        <mxCell id="l22EB8_14llwBZu5jzjP-446" value="人群包数据 blobstore" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="l22EB8_14llwBZu5jzjP-446" value="持久化人群包数据 blobstore" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="4738" y="1032.23" width="207.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="l22EB8_14llwBZu5jzjP-450" value="配置数据 mysql" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="l22EB8_14llwBZu5jzjP-450" value="配置数据 &lt;br&gt;mysql" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="5135.5" y="1033" width="207.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l22EB8_14llwBZu5jzjP-451" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="1">
@@ -942,10 +942,10 @@
         <mxCell id="l22EB8_14llwBZu5jzjP-562" value="拓展引擎" style="label;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png;fontSize=20;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="6903" y="1097" width="158" height="213" as="geometry" />
         </mxCell>
-        <mxCell id="l22EB8_14llwBZu5jzjP-571" value="人群数据 n" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=18;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="l22EB8_14llwBZu5jzjP-571" value="分片n人群数据" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=18;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="5325.75" y="790" width="133" height="81" as="geometry" />
         </mxCell>
-        <mxCell id="l22EB8_14llwBZu5jzjP-573" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=left;" vertex="1" parent="1">
+        <mxCell id="l22EB8_14llwBZu5jzjP-573" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="4844" y="634.25" width="163" height="253.5" as="geometry" />
         </mxCell>
         <mxCell id="l22EB8_14llwBZu5jzjP-574" value="自研存储引擎" style="label;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png;fontSize=20;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
@@ -954,10 +954,10 @@
         <mxCell id="l22EB8_14llwBZu5jzjP-575" value="分片1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="4864.25" y="657.75" width="122" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="l22EB8_14llwBZu5jzjP-576" value="人群数据 1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=18;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="l22EB8_14llwBZu5jzjP-576" value="分片1人群数据" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=18;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="4860.75" y="789.75" width="133" height="81" as="geometry" />
         </mxCell>
-        <mxCell id="l22EB8_14llwBZu5jzjP-577" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=left;" vertex="1" parent="1">
+        <mxCell id="l22EB8_14llwBZu5jzjP-577" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="5046" y="634.25" width="163" height="253.5" as="geometry" />
         </mxCell>
         <mxCell id="l22EB8_14llwBZu5jzjP-578" value="自研存储引擎" style="label;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png;fontSize=20;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
@@ -966,7 +966,7 @@
         <mxCell id="l22EB8_14llwBZu5jzjP-579" value="分片2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="5066.25" y="657.75" width="122" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="l22EB8_14llwBZu5jzjP-580" value="人群数据 2" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=18;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="l22EB8_14llwBZu5jzjP-580" value="分片2人群数据" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=18;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="5062.75" y="789.75" width="133" height="81" as="geometry" />
         </mxCell>
       </root>
