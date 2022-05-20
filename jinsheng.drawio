@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-20T15:54:50.807Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="S0isxJ9MHG9wNo9wthZk" version="18.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-20T15:55:08.099Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="jV7lgXCUEV825fvVBrxg" version="18.0.8" type="github">
   <diagram id="-Vc1SqAhIWkPA8O0TntI" name="Page-1">
     <mxGraphModel dx="1854" dy="1034" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="18000" pageHeight="18000" math="0" shadow="0">
       <root>
@@ -1997,18 +1997,6 @@
         </mxCell>
         <mxCell id="D7NC2FlVCrDfesC6QGzc-16" value="userIds" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#CC00CC;" parent="1" vertex="1">
           <mxGeometry x="553.5" y="1473.5" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="D7NC2FlVCrDfesC6QGzc-299" value="6亿位 + n个userId占用的位" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="945" y="1266.5" width="154" height="18" as="geometry" />
-        </mxCell>
-        <mxCell id="D7NC2FlVCrDfesC6QGzc-300" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="938" y="1288" as="sourcePoint" />
-            <mxPoint x="1112" y="1288" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="D7NC2FlVCrDfesC6QGzc-301" value="m + n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1002" y="1290" width="40" height="18" as="geometry" />
         </mxCell>
         <mxCell id="unDevgweBK_qIboFxIeR-2" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=7.868421052631675;" vertex="1" parent="1">
           <mxGeometry x="560" y="856" width="47" height="47.5" as="geometry" />
