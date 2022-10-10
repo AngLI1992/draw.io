@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-10T07:37:57.748Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="7NbtDsbnAF2pO2en0hfq" version="20.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-10T07:41:07.384Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="XMWEkdzC4VczDg5sTOC7" version="20.3.2" type="github">
   <diagram id="vlU8lXh0kYYRg-SLjIeo" name="第 1 页">
-    <mxGraphModel dx="1731" dy="964" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1997" dy="1112" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -152,11 +152,19 @@
         <mxCell id="wMH6Fe0gOgUvcrLyJsvM-73" value="资源控制" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="826" y="719" width="63" height="32" as="geometry" />
         </mxCell>
+        <mxCell id="wMH6Fe0gOgUvcrLyJsvM-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=13;dashed=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="wMH6Fe0gOgUvcrLyJsvM-75" target="wMH6Fe0gOgUvcrLyJsvM-79">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="415.7058823529412" y="731.4705882352941" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="wMH6Fe0gOgUvcrLyJsvM-75" value="资源控制" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="435" y="715.5" width="63" height="32" as="geometry" />
+          <mxGeometry x="441" y="715.5" width="63" height="32" as="geometry" />
         </mxCell>
         <mxCell id="wMH6Fe0gOgUvcrLyJsvM-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=13;" edge="1" parent="1" source="wMH6Fe0gOgUvcrLyJsvM-75" target="wMH6Fe0gOgUvcrLyJsvM-75">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wMH6Fe0gOgUvcrLyJsvM-79" value="自动识别sql语句复杂度，为每个语句设置合理的并发度" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="301" y="674" width="86" height="115" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
