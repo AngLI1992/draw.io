@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-13T11:47:28.953Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="D2wt1EIWWHyfSnnl-B_n" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-13T12:35:07.528Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="e39xl_ugpVtKBNeJgc61" version="20.8.20" type="github">
   <diagram id="-Vc1SqAhIWkPA8O0TntI" name="Page-1">
-    <mxGraphModel dx="26120" dy="14520" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="18000" pageHeight="18000" math="0" shadow="0">
+    <mxGraphModel dx="3265" dy="1815" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="18000" pageHeight="18000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3650,6 +3650,29 @@
         </mxCell>
         <mxCell id="vtxMNHEtsMyO6vuCwmLD-252" value="=&amp;nbsp; result" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=100;" vertex="1" parent="1">
           <mxGeometry x="14794.5" y="12830.61" width="377" height="132" as="geometry" />
+        </mxCell>
+        <mxCell id="vtxMNHEtsMyO6vuCwmLD-259" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=4;fontSize=40;endArrow=classic;endFill=1;" edge="1" parent="1" source="vtxMNHEtsMyO6vuCwmLD-256" target="vtxMNHEtsMyO6vuCwmLD-258">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vtxMNHEtsMyO6vuCwmLD-256" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;开始&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=40;" vertex="1" parent="1">
+          <mxGeometry x="9670" y="4988" width="216" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="vtxMNHEtsMyO6vuCwmLD-261" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=4;fontSize=30;endArrow=classic;endFill=1;" edge="1" parent="1" source="vtxMNHEtsMyO6vuCwmLD-258" target="vtxMNHEtsMyO6vuCwmLD-260">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vtxMNHEtsMyO6vuCwmLD-258" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;简化规则树结构&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=40;" vertex="1" parent="1">
+          <mxGeometry x="9641" y="5207.25" width="274" height="130.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vtxMNHEtsMyO6vuCwmLD-263" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=4;fontSize=30;endArrow=classic;endFill=1;" edge="1" parent="1" source="vtxMNHEtsMyO6vuCwmLD-260">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="9778" y="5737" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vtxMNHEtsMyO6vuCwmLD-260" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;当前节点赋值&lt;br&gt;为根节点&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=40;" vertex="1" parent="1">
+          <mxGeometry x="9641" y="5449" width="274" height="130.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vtxMNHEtsMyO6vuCwmLD-264" value="按优先级遍历全部处理器，处理当前节点&lt;br&gt;如果某一处理器执行成功，则当前节点标为成功，&lt;br&gt;否则当前节点标为失败" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="9375" y="5735" width="806" height="437" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
