@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-11T07:41:41.779Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="U4wpgvv1rMf2yHGo07qP" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-11T12:04:57.434Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="FBOdQbWc1UXJWa5o_1E8" version="22.0.4" type="github">
   <diagram name="第 1 页" id="jV7wGJp07mq3WOKV_kup">
     <mxGraphModel dx="1306" dy="720" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="UxM1pPzDhjcgVf4L5Us0-2" value="引擎" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="614" y="138" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UxM1pPzDhjcgVf4L5Us0-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;dashed=1;" parent="1" source="UxM1pPzDhjcgVf4L5Us0-3" target="UxM1pPzDhjcgVf4L5Us0-1" edge="1">
+        <mxCell id="fhNxUWzkzA-D9nLk0wfe-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="UxM1pPzDhjcgVf4L5Us0-3" target="UxM1pPzDhjcgVf4L5Us0-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UxM1pPzDhjcgVf4L5Us0-3" value="启量" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -36,9 +36,6 @@
         </mxCell>
         <mxCell id="UxM1pPzDhjcgVf4L5Us0-8" value="rpc获取uid的人群包列表" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="435" y="180" width="147" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="UxM1pPzDhjcgVf4L5Us0-10" value="创建订单通知（包含人群包id）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="235" y="260" width="68" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UxM1pPzDhjcgVf4L5Us0-11" value="拉取当前生效的所有人群包列表" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="373" y="264" width="60" height="30" as="geometry" />
@@ -81,6 +78,9 @@
         </mxCell>
         <mxCell id="UxM1pPzDhjcgVf4L5Us0-24" value="过滤月活，生成新的人群包id，&lt;br&gt;在启量平台使用新的id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="758" y="658" width="183" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="fhNxUWzkzA-D9nLk0wfe-2" value="人群包导入&lt;br&gt;到启量&lt;br&gt;or&lt;br&gt;人群包手动&lt;br&gt;触发更新" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="228" y="243" width="78" height="84" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
