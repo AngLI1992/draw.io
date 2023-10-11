@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-11T03:30:15.328Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="yQSrYnEb0EKZG1C0FgeA" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-11T03:54:00.696Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="Ugf6bkWtSbhgTyoq2PNQ" version="21.3.8" type="github">
   <diagram name="第 1 页" id="jV7wGJp07mq3WOKV_kup">
     <mxGraphModel dx="1306" dy="720" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -42,6 +42,45 @@
         </mxCell>
         <mxCell id="UxM1pPzDhjcgVf4L5Us0-11" value="拉取当前生效的人群包" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="373" y="264" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UxM1pPzDhjcgVf4L5Us0-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UxM1pPzDhjcgVf4L5Us0-14" target="UxM1pPzDhjcgVf4L5Us0-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UxM1pPzDhjcgVf4L5Us0-14" value="画像" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="282" y="552" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UxM1pPzDhjcgVf4L5Us0-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="UxM1pPzDhjcgVf4L5Us0-15" target="UxM1pPzDhjcgVf4L5Us0-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UxM1pPzDhjcgVf4L5Us0-15" value="启量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="625" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UxM1pPzDhjcgVf4L5Us0-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UxM1pPzDhjcgVf4L5Us0-16" target="UxM1pPzDhjcgVf4L5Us0-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="533" y="700" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="498" y="700" />
+              <mxPoint x="498" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UxM1pPzDhjcgVf4L5Us0-16" value="app平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="282" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UxM1pPzDhjcgVf4L5Us0-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UxM1pPzDhjcgVf4L5Us0-17" target="UxM1pPzDhjcgVf4L5Us0-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UxM1pPzDhjcgVf4L5Us0-17" value="其他" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="282" y="788" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UxM1pPzDhjcgVf4L5Us0-21" value="导入原始人群包" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="517" y="670" width="102" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="UxM1pPzDhjcgVf4L5Us0-22" value="画像" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="947" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UxM1pPzDhjcgVf4L5Us0-24" value="过滤月活，生成新的人群包id，&lt;br&gt;在启量平台使用新的id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="758" y="658" width="183" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
