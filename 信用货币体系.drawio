@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T08:10:16.263Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="doC-UWhdwY6EgirA4SrB" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-02T08:20:26.277Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="2VX3hoXyjgWx5t6s_m4u" version="22.0.8" type="github">
   <diagram name="第 1 页" id="ryfaWHr7P2OT-UqxU1gF">
-    <mxGraphModel dx="1244" dy="686" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1306" dy="720" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -555,14 +555,14 @@
         <mxCell id="Zakv3uqYvvP0ld6T2V3J-298" value="负债" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2850" y="1310" width="42" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="Zakv3uqYvvP0ld6T2V3J-299" value="商业银行y账户100元" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="2934" y="1268" width="128" height="26" as="geometry" />
+        <mxCell id="Zakv3uqYvvP0ld6T2V3J-299" value="商业银行y账户90元" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="2938" y="1268" width="121" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="Zakv3uqYvvP0ld6T2V3J-300" value="y贷款100元" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="2934" y="1311" width="80" height="26" as="geometry" />
+        <mxCell id="Zakv3uqYvvP0ld6T2V3J-300" value="y贷款90元" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="2938" y="1311" width="73" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="Zakv3uqYvvP0ld6T2V3J-301" value="y贷款100元" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="3088" y="1081" width="80" height="26" as="geometry" />
+        <mxCell id="Zakv3uqYvvP0ld6T2V3J-301" value="y贷款90元" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="3092" y="1081" width="73" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Zakv3uqYvvP0ld6T2V3J-303" value="商业银行A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2850" y="1043" width="66.5" height="28" as="geometry" />
@@ -600,7 +600,7 @@
         <mxCell id="Zakv3uqYvvP0ld6T2V3J-312" value="现金100元" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="2942.5" y="882.5" width="74" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="Zakv3uqYvvP0ld6T2V3J-313" value="央行A账户100元 冻结20元" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+        <mxCell id="Zakv3uqYvvP0ld6T2V3J-313" value="央行A账户100元 冻结19元" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="2942" y="928" width="159" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Zakv3uqYvvP0ld6T2V3J-314" value="商业银行x账户100元" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
@@ -609,8 +609,8 @@
         <mxCell id="Zakv3uqYvvP0ld6T2V3J-315" value="央行A账户100元" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="2933" y="1081" width="106" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="Zakv3uqYvvP0ld6T2V3J-316" value="商业银行y账户100元" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="3088" y="1124" width="128" height="26" as="geometry" />
+        <mxCell id="Zakv3uqYvvP0ld6T2V3J-316" value="商业银行y账户90元" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="3092" y="1124" width="121" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Zakv3uqYvvP0ld6T2V3J-317" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2850" y="1420" width="271.5" height="88" as="geometry" />
