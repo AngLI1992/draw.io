@@ -1,9 +1,60 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T06:16:24.787Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" version="22.0.8" etag="zsdNzksvsIWj_6kfjvb_" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-02T06:36:14.868Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="G9oXGLye6CWWIhogFUKs" version="22.0.8" type="github">
   <diagram name="第 1 页" id="ryfaWHr7P2OT-UqxU1gF">
-    <mxGraphModel>
+    <mxGraphModel dx="1306" dy="720" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Zakv3uqYvvP0ld6T2V3J-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="322.5" y="191" width="187" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="Zakv3uqYvvP0ld6T2V3J-2" value="中央银行" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240.5" y="191" width="82" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="Zakv3uqYvvP0ld6T2V3J-5" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zakv3uqYvvP0ld6T2V3J-1" target="Zakv3uqYvvP0ld6T2V3J-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="352" y="259" as="sourcePoint" />
+            <mxPoint x="402" y="209" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zakv3uqYvvP0ld6T2V3J-6" value="资产" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="316" y="189" width="42" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Zakv3uqYvvP0ld6T2V3J-7" value="负债" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="316" y="235" width="42" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Zakv3uqYvvP0ld6T2V3J-9" value="央账" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="361" y="245" width="42" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Zakv3uqYvvP0ld6T2V3J-10" value="发行现金" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="425" y="245" width="66" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Zakv3uqYvvP0ld6T2V3J-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="201.5" y="395" width="187" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="Zakv3uqYvvP0ld6T2V3J-12" value="商业银行" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="119.5" y="395" width="82" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="Zakv3uqYvvP0ld6T2V3J-13" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zakv3uqYvvP0ld6T2V3J-11" target="Zakv3uqYvvP0ld6T2V3J-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="231" y="463" as="sourcePoint" />
+            <mxPoint x="281" y="413" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zakv3uqYvvP0ld6T2V3J-14" value="资产" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="195" y="393" width="42" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Zakv3uqYvvP0ld6T2V3J-15" value="负债" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="195" y="439" width="42" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Zakv3uqYvvP0ld6T2V3J-16" value="央账" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="244" y="404" width="42" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Zakv3uqYvvP0ld6T2V3J-17" value="现金" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="309" y="404" width="42" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Zakv3uqYvvP0ld6T2V3J-18" value="商账" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="244" y="450" width="42" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
