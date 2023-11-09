@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-09T08:47:41.418Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="jxSunufGsKMezdDSSSer" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-09T08:53:56.378Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="Iv8UOiDd055gMnWY0kHM" version="22.1.0" type="github">
   <diagram name="第 1 页" id="ryfaWHr7P2OT-UqxU1gF">
     <mxGraphModel dx="1741" dy="960" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -633,8 +633,14 @@
         <mxCell id="Zakv3uqYvvP0ld6T2V3J-322" value="商业银行小明账户100元" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="2737" y="2718.5" width="146" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="_rS6C7TBeTZ7sqL36ZN8-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1629" y="2197" width="40" height="26" as="geometry" />
+        <mxCell id="_rS6C7TBeTZ7sqL36ZN8-1" value="1、小明手里有100元现金" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1568" y="2230" width="153" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="_rS6C7TBeTZ7sqL36ZN8-2" value="2、小明把100元现金存到商业银行A，&lt;br&gt;商业银行A又把这100元存到央行" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2091" y="2230.5" width="221" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="_rS6C7TBeTZ7sqL36ZN8-3" value="3、小红从商业银行A贷款90元" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2639" y="2237" width="178" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
