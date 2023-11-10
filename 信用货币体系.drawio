@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-09T11:44:00.897Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="W9JfY_MyuUaDBqlLljC0" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-10T08:20:42.633Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="u_HGLQO93ZFAhEHMnYn_" version="22.1.0" type="github">
   <diagram name="第 1 页" id="ryfaWHr7P2OT-UqxU1gF">
-    <mxGraphModel dx="2009" dy="1108" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1451" dy="800" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -208,60 +208,60 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Zakv3uqYvvP0ld6T2V3J-96" value="中央银行" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="466.5" y="1919" width="66.5" height="28" as="geometry" />
+          <mxGeometry x="693" y="1845" width="66.5" height="28" as="geometry" />
         </mxCell>
         <mxCell id="Zakv3uqYvvP0ld6T2V3J-97" value="商业银行A" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="366.5" y="1986" width="66.5" height="28" as="geometry" />
+          <mxGeometry x="593" y="1912" width="66.5" height="28" as="geometry" />
         </mxCell>
         <mxCell id="Zakv3uqYvvP0ld6T2V3J-98" value="居民部门a" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="311.5" y="2068" width="66.5" height="28" as="geometry" />
+          <mxGeometry x="538" y="1994" width="66.5" height="28" as="geometry" />
         </mxCell>
         <mxCell id="Zakv3uqYvvP0ld6T2V3J-102" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Zakv3uqYvvP0ld6T2V3J-97" target="Zakv3uqYvvP0ld6T2V3J-96" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="394.5" y="1980" as="sourcePoint" />
-            <mxPoint x="444.5" y="1930" as="targetPoint" />
+            <mxPoint x="621" y="1906" as="sourcePoint" />
+            <mxPoint x="671" y="1856" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Zakv3uqYvvP0ld6T2V3J-107" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="Zakv3uqYvvP0ld6T2V3J-98" target="Zakv3uqYvvP0ld6T2V3J-97" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="206.5" y="2179" as="sourcePoint" />
-            <mxPoint x="256.5" y="2129" as="targetPoint" />
+            <mxPoint x="433" y="2105" as="sourcePoint" />
+            <mxPoint x="483" y="2055" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Zakv3uqYvvP0ld6T2V3J-108" value="居民部门b" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="424.5" y="2068" width="66.5" height="28" as="geometry" />
+          <mxGeometry x="651" y="1994" width="66.5" height="28" as="geometry" />
         </mxCell>
         <mxCell id="Zakv3uqYvvP0ld6T2V3J-109" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Zakv3uqYvvP0ld6T2V3J-108" target="Zakv3uqYvvP0ld6T2V3J-97" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="454.5" y="2185" as="sourcePoint" />
-            <mxPoint x="504.5" y="2135" as="targetPoint" />
+            <mxPoint x="681" y="2111" as="sourcePoint" />
+            <mxPoint x="731" y="2061" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Zakv3uqYvvP0ld6T2V3J-112" value="商业银行B" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="575" y="1986" width="66.5" height="28" as="geometry" />
+          <mxGeometry x="801.5" y="1912" width="66.5" height="28" as="geometry" />
         </mxCell>
         <mxCell id="Zakv3uqYvvP0ld6T2V3J-113" value="居民部门c" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="524" y="2068" width="66.5" height="28" as="geometry" />
+          <mxGeometry x="750.5" y="1994" width="66.5" height="28" as="geometry" />
         </mxCell>
         <mxCell id="Zakv3uqYvvP0ld6T2V3J-114" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Zakv3uqYvvP0ld6T2V3J-112" target="Zakv3uqYvvP0ld6T2V3J-96" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="404.5" y="1990" as="sourcePoint" />
-            <mxPoint x="509.5" y="1957" as="targetPoint" />
+            <mxPoint x="631" y="1916" as="sourcePoint" />
+            <mxPoint x="736" y="1883" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Zakv3uqYvvP0ld6T2V3J-115" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="Zakv3uqYvvP0ld6T2V3J-113" target="Zakv3uqYvvP0ld6T2V3J-112" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="216.5" y="2189" as="sourcePoint" />
-            <mxPoint x="266.5" y="2139" as="targetPoint" />
+            <mxPoint x="443" y="2115" as="sourcePoint" />
+            <mxPoint x="493" y="2065" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Zakv3uqYvvP0ld6T2V3J-116" value="居民部门d" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="643" y="2068" width="66.5" height="28" as="geometry" />
+          <mxGeometry x="869.5" y="1994" width="66.5" height="28" as="geometry" />
         </mxCell>
         <mxCell id="Zakv3uqYvvP0ld6T2V3J-117" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Zakv3uqYvvP0ld6T2V3J-116" target="Zakv3uqYvvP0ld6T2V3J-112" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="464.5" y="2195" as="sourcePoint" />
-            <mxPoint x="514.5" y="2145" as="targetPoint" />
+            <mxPoint x="691" y="2121" as="sourcePoint" />
+            <mxPoint x="741" y="2071" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Zakv3uqYvvP0ld6T2V3J-118" value="中央银行" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -764,6 +764,12 @@
         </mxCell>
         <mxCell id="_rS6C7TBeTZ7sqL36ZN8-43" value="央行B账户90元 冻结9元" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="2353.5" y="3008" width="145" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="_rS6C7TBeTZ7sqL36ZN8-44" value="跨行转账，y转账给z" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="414" y="2404" width="171" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="_rS6C7TBeTZ7sqL36ZN8-45" value="行内转账，x转账给y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="903" y="2404" width="171" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
